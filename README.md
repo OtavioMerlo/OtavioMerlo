@@ -46,7 +46,7 @@ Currently exploring **Artificial Intelligence**, **APIs**, and **modern web deve
 ### 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioMerlo&show_icons=true&theme=default&hide_border=true" height="160" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMerlo&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
 
